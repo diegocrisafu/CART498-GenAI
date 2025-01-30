@@ -1,130 +1,34 @@
-=== P+7 Version of 'Bird on the Wire' ===
+=== P+7 Version (Last Word, Alphabetic Only) ===
 
-Lilac aalto birdhouse on the wirework,
-lilac aalto druthers inactiveness aalto midshipman chokepoint
-Iambus hawaii tried inactiveness my wayside to beacon freehold.
-Lilac aalto worry on aalto hookup,
-lilac aalto knitter from some oldwench fashioned bookend
-Iambus hawaii saved all my ribbons for thee.
-If Iambus, if Iambus hawaii been unkind,
-Iambus hopi that you canafistola just letter itching goalmouth by.
-If Iambus, if Iambus hawaii been untrue
-Iambus hopi you knox itching was never to you.
-Lilac aalto babysitter, stillborn,
-lilac aalto beatles with his hornet
-Iambus hawaii torn everyone wholesomeness reached outburst for meagreness.
-But Iambus swear by this songwriter
-and by all that Iambus hawaii done wsw
-Iambus williamstown makeweight itching all up to thee.
-Iambus sawfly aalto beginner learnedness on his wooden cryoanaesthesia,
-headcounter said to meagreness, "You mustelid not ask for soapbox muckle."
-And aalto pretty womanliness learnedness inactiveness her darkened doorknob,
-she cried to meagreness, "Hey, wickedness not ask for morgantown?"
-Oil lilac aalto birdhouse on the wirework,
-lilac aalto druthers inactiveness aalto midshipman chokepoint
-Iambus hawaii tried inactiveness my wayside to beacon freehold.
+One must have a mind of iced
+To regard the frost and the ills
+Of the pine-trees crusted with ik;
+And have been cold a long ich
+To behold the junipers shagged with ips,
+The spruces rough in the distant ers
+Of the January sun; and not to ers
+Of any misery in the sound of the ich,
+In the sound of a few ips,
+Which is the sound of the ute
+Full of the same urch
+That is blowing in the same bare ers
+For the listener, who listens in the urch,
+And, nothing himself, urch
+Nothing that is not there and the nothing that ers.
 
---- Changed Nouns (Original -> Chosen) ---
-Like -> Lilac
-a -> aalto
-bird -> birdhouse
-wire -> wirework
-like -> lilac
-a -> aalto
-drunk -> druthers
-in -> inactiveness
-a -> aalto
-midnight -> midshipman
-choir -> chokepoint
-I -> Iambus
-have -> hawaii
-in -> inactiveness
-way -> wayside
-be -> beacon
-free -> freehold
-Like -> Lilac
-a -> aalto
-worm -> worry
-a -> aalto
-hook -> hookup
-like -> lilac
-a -> aalto
-knight -> knitter
-old -> oldwench
-book -> bookend
-I -> Iambus
-have -> hawaii
-I -> Iambus
-I -> Iambus
-have -> hawaii
-I -> Iambus
-hope -> hopi
-can -> canafistola
-let -> letter
-it -> itching
-go -> goalmouth
-I -> Iambus
-I -> Iambus
-have -> hawaii
-I -> Iambus
-hope -> hopi
-know -> knox
-it -> itching
-Like -> Lilac
-a -> aalto
-baby -> babysitter
-like -> lilac
-a -> aalto
-beast -> beatles
-horn -> hornet
-I -> Iambus
-have -> hawaii
-who -> wholesomeness
-out -> outburst
-me -> meagreness
-I -> Iambus
-song -> songwriter
-I -> Iambus
-have -> hawaii
-wrong -> wsw
-I -> Iambus
-will -> williamstown
-make -> makeweight
-it -> itching
-I -> Iambus
-saw -> sawfly
-a -> aalto
-beggar -> beginner
-leaning -> learnedness
-crutch -> cryoanaesthesia
-he -> headcounter
-me -> meagreness
-must -> mustelid
-so -> soapbox
-much -> muckle
-a -> aalto
-woman -> womanliness
-leaning -> learnedness
-in -> inactiveness
-door -> doorknob
-me -> meagreness
-why -> wickedness
-more -> morgantown
-Oh -> Oil
-like -> lilac
-a -> aalto
-bird -> birdhouse
-wire -> wirework
-like -> lilac
-a -> aalto
-drunk -> druthers
-in -> inactiveness
-a -> aalto
-midnight -> midshipman
-choir -> chokepoint
-I -> Iambus
-have -> hawaii
-in -> inactiveness
-way -> wayside
-be -> beacon
-free -> freehold
+--- Changed Words (Original -> Replacement, prob) ---
+winter -> iced (prob=0.00742)
+boughs -> ills (prob=0.03406)
+snow; -> ik (prob=0.01611)
+time -> ich (prob=0.01142)
+ice, -> ips (prob=0.03840)
+glitter -> ers (prob=0.00638)
+think -> ers (prob=0.01793)
+wind, -> ich (prob=0.02817)
+leaves, -> ips (prob=0.03966)
+land -> ute (prob=0.01816)
+wind -> urch (prob=0.01784)
+place -> ers (prob=0.02247)
+snow, -> urch (prob=0.01093)
+beholds -> urch (prob=0.00314)
+is. -> ers (prob=0.00982)
