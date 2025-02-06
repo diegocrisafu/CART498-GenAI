@@ -1,0 +1,60 @@
+Welcome to Gio's Got Math - the Self-Deprecating Calculator!
+
+Calculation #1
+--------------------
+Python result: 3 * 3 = 9
+GPT-4o says: 9
+✅ GPT-4o got it right!
+--------------------
+
+Calculation #2
+--------------------
+Python result: 9 * 9 = 81
+GPT-4o says: 81
+✅ GPT-4o got it right!
+--------------------
+
+Calculation #3
+--------------------
+Python result: 81 * 81 = 6561
+GPT-4o says: 6561
+✅ GPT-4o got it right!
+--------------------
+
+Calculation #4
+--------------------
+Python result: 6561 * 6561 = 43046721
+GPT-4o says: 43046721
+✅ GPT-4o got it right!
+--------------------
+
+Calculation #5
+--------------------
+Python result: 43046721 * 43046721 = 1853020188851841
+GPT-4o says: 1853020188851841
+✅ GPT-4o got it right!
+--------------------
+
+Calculation #6
+--------------------
+Python result: 1853020188851841 * 1853020188851841 = 3433683820292512484657849089281
+GPT-4o says: 3433683820292512484657849089289904644323
+❌ Wow, I messed up. Don't tell anyone shhhhhhh!
+--------------------
+
+Calculation #7
+--------------------
+Python result: 3433683820292512484657849089281 * 3433683820292512484657849089281 = 11790184577738583171520872861412518665678211592275841109096961
+GPT-4o says: 1170502022021961301551550510522021380520492020491
+❌ Ugh, that's two mistakes in a row YOU BETTER NOT go ask gemini. I'm really questioning my calculator skills here! your ticking me off, its not me its you
+--------------------
+
+Calculation #8
+--------------------
+Python result: 11790184577738583171520872861412518665678211592275841109096961 * 11790184577738583171520872861412518665678211592275841109096961 = 139008452377144732764939786789661303114218850808529137991604824430036072629766435941001769154109609521811665540548899435521
+GPT-4o says: 139706440052155155155174174174052052174049174174052052174049174174052052174049174174052052174049174174052052174049174174052052174049174174052052174049
+❌ I can't believe it—I'm on a roll of errors! Math is really testing my limits.
+--------------------
+
+Final Report:
+I made 3 mistakes. Clearly, math can be a real challenge sometimes.
